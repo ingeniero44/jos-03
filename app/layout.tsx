@@ -7,8 +7,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Danone | Únete a nuestro equipo de trabajo',
-  description: 'Sé parte de nuestro equipo de trabajo. Tu salario puede aumentar dependiendo de tu puesto y de las horas extras.',
+  title: 'empaques | Únete a nuestro equipo de trabajo',
+  description: 'Sé parte de nuestro equipo de trabajo. .',
   generator: 'v0.app',
   icons: {
     icon: [
